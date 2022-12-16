@@ -7,9 +7,9 @@ function App() {
 
     const [user, setUser] = useState({});
     return (
-      <GoogleOAuthProvider clientId="924104507344-il7n3cpre0kjl7pna5bncbipidsrdcno.apps.googleusercontent.com">
+      
       <div>hola</div>
-      </GoogleOAuthProvider>
+ 
   
   );
 }
